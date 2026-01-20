@@ -1,5 +1,6 @@
 # Skyfall--2D-game-prototype
-A basic 2D game developed solo using Unity. I managed the full production pipeline, from asset integration to gameplay programming, focusing on clean architecture, responsive controls, and polished game feel.
+there's a lot of enemies appears on each level u reach (Dinos , airplanes), also a variant powerups (ghost mode , slow time ...) 
+
 
 <img width="739" height="596" alt="sk" src="https://github.com/user-attachments/assets/582254f9-13ba-4a0c-a1c9-10df38588564" />
 
